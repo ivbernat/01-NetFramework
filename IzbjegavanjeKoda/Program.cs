@@ -22,6 +22,7 @@ namespace IzbjegavanjeKoda
         void MetodaKojuŽelimoIzbjeći()
         {
             Console.WriteLine("MetodaKojuŽelimoIzbjeći()");
+            Console.WriteLine("test");
         }
     }
 }
